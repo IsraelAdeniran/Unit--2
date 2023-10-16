@@ -6,6 +6,6 @@ public class GitHub : MonoBehaviour
 {
     public void openLink()
     {
-        Application.OpenURL("https://github.com/IsraelAdeniran/Challenge--2.git");
+        Application.OpenURL("https://github.com/IsraelAdeniran/Unit--2.git");
     }
 }
